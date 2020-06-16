@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.idea
+/PSE_2018_Gruppe1/cmake-build-debug
+
+Documentation/latex
+Documentation/html
+Documentation/man
+Documentation/rtf
+Documentation/xml

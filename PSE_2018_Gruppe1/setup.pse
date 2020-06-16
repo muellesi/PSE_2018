@@ -1,0 +1,3 @@
+set -t 10
+set -d 0.3
+set -l 3

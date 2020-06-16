@@ -1,5 +1,0 @@
-Enterprise Architect Zugangsdaten:
-Severname: ITIV-2016.itiv.kit.edu
-User: u-Kürzel
-Passwort: gruppe1
-Folder: pse_2018_gruppe1
